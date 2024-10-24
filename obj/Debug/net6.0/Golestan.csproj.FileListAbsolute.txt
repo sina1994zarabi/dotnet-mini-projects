@@ -1,0 +1,15 @@
+F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\bin\Debug\net6.0\Golestan.exe
+F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\bin\Debug\net6.0\Golestan.deps.json
+F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\bin\Debug\net6.0\Golestan.runtimeconfig.json
+F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\bin\Debug\net6.0\Golestan.dll
+F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\bin\Debug\net6.0\Golestan.pdb
+F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\obj\Debug\net6.0\Golestan.csproj.AssemblyReference.cache
+F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\obj\Debug\net6.0\Golestan.GeneratedMSBuildEditorConfig.editorconfig
+F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\obj\Debug\net6.0\Golestan.AssemblyInfoInputs.cache
+F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\obj\Debug\net6.0\Golestan.AssemblyInfo.cs
+F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\obj\Debug\net6.0\Golestan.csproj.CoreCompileInputs.cache
+F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\obj\Debug\net6.0\Golestan.dll
+F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\obj\Debug\net6.0\refint\Golestan.dll
+F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\obj\Debug\net6.0\Golestan.pdb
+F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\obj\Debug\net6.0\Golestan.genruntimeconfig.cache
+F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\obj\Debug\net6.0\ref\Golestan.dll

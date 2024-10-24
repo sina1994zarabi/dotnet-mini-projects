@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OTFd/mbcK0114QCA97QlBHqk1woQZWPXfOFDPfzVd+xE9VCkvmaMmi88RjOmI+QnWAOWNuGzF4rinZeLyF37cg==",
+  "dgSpecHash": "NvdHdvc3bls=",
   "success": true,
-  "projectFilePath": "F:\\programming\\coursera\\Full-Stack-.NET\\BootCamp\\Mini Projects\\Golestan\\Golestan.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ashkan\\Desktop\\TEstGit\\Golestan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashkan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Ashkan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Ashkan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\Ashkan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.35\\microsoft.netcore.app.host.win-x64.6.0.35.nupkg.sha512"
+  ],
   "logs": []
 }

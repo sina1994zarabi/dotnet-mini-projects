@@ -13,3 +13,18 @@ F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\obj\Debu
 F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\obj\Debug\net6.0\Golestan.pdb
 F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\obj\Debug\net6.0\Golestan.genruntimeconfig.cache
 F:\programming\coursera\Full-Stack-.NET\BootCamp\Mini Projects\Golestan\obj\Debug\net6.0\ref\Golestan.dll
+C:\Users\Ashkan\Desktop\TEstGit\bin\Debug\net6.0\Golestan.exe
+C:\Users\Ashkan\Desktop\TEstGit\bin\Debug\net6.0\Golestan.deps.json
+C:\Users\Ashkan\Desktop\TEstGit\bin\Debug\net6.0\Golestan.runtimeconfig.json
+C:\Users\Ashkan\Desktop\TEstGit\bin\Debug\net6.0\Golestan.dll
+C:\Users\Ashkan\Desktop\TEstGit\bin\Debug\net6.0\Golestan.pdb
+C:\Users\Ashkan\Desktop\TEstGit\obj\Debug\net6.0\Golestan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashkan\Desktop\TEstGit\obj\Debug\net6.0\Golestan.AssemblyInfoInputs.cache
+C:\Users\Ashkan\Desktop\TEstGit\obj\Debug\net6.0\Golestan.AssemblyInfo.cs
+C:\Users\Ashkan\Desktop\TEstGit\obj\Debug\net6.0\Golestan.csproj.CoreCompileInputs.cache
+C:\Users\Ashkan\Desktop\TEstGit\obj\Debug\net6.0\Golestan.sourcelink.json
+C:\Users\Ashkan\Desktop\TEstGit\obj\Debug\net6.0\Golestan.dll
+C:\Users\Ashkan\Desktop\TEstGit\obj\Debug\net6.0\refint\Golestan.dll
+C:\Users\Ashkan\Desktop\TEstGit\obj\Debug\net6.0\Golestan.pdb
+C:\Users\Ashkan\Desktop\TEstGit\obj\Debug\net6.0\Golestan.genruntimeconfig.cache
+C:\Users\Ashkan\Desktop\TEstGit\obj\Debug\net6.0\ref\Golestan.dll

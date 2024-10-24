@@ -8,6 +8,7 @@ using System.Diagnostics;
 SeedData.Seed();
 MainMenu();
 
+///// test git
 void MainMenu()
 {
     Console.WriteLine("1- Login 2- Register");

@@ -1,1 +1,1 @@
-# dotnet-mini-projects
+# Student Managment System Console App
